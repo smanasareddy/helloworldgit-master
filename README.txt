@@ -1,8 +1,4 @@
 This is a sample project students can use during Matthew's Git class.
-manu
-
-
-
 
 Here is an addition by me
 
